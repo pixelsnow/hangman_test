@@ -1,0 +1,6 @@
+.word_container {
+  display: flex;
+  gap: 0.5rem;
+  font-size: 2rem;
+  justify-content: center;
+}

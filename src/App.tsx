@@ -5,9 +5,9 @@ import Word from "./Components/Word";
 import Keyboard from "./Components/Keyboard";
 import Message from "./Components/Message";
 import Controls from "./Components/Controls";
+import Leaderboard from "./Components/Leaderboard";
 
 import "./App.css";
-import Leaderboard from "./Components/Leaderboard";
 
 const words = require("./words.json");
 
